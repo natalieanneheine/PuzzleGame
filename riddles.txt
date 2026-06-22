@@ -5,7 +5,7 @@ Clear
 oCklterasrevh
 
 
-Above the lock it say "Start-End-Skip" and each goes up to 20
+Above the lock it say "Start-End-Skip" and each number disk goes up to 20.
 Enter as #-#-#
 
 cipher
@@ -14,7 +14,7 @@ The note says
 Moon
 Mewsobaxozgunpd
 
-Above the lock it say "Start-End-Skip" and each goes up to 20
+Above the lock it say "Start-End-Skip" and each number disk goes up to 20.
 Enter as #-#-#
 
 cipher
@@ -23,7 +23,7 @@ The note says
 Sun
 ogHSUTuiknjwd
 
-Above the lock it say "Start-End-Skip" and each goes up to 20
+Above the lock it say "Start-End-Skip" and each number disk goes up to 20.
 Enter as #-#-#
 
 cipher
@@ -33,7 +33,7 @@ Star
 
 reSwtqaxrkwq
 
-Above the lock it say "Start-End-Skip"
+Above the lock it say "Start-End-Skip"and each number disk goes up to 20.
 Enter as #-#-#
 
 riddle_mc
