@@ -1,2 +1,2 @@
-# miniprojectGame
-It is a small game were you move though room collecting gold by solving puzzles
+# miniprojectPuzzleGame
+A simple game where you go around different room solving puzzle to collect gold. The room layout and puzzle placement are randomly decided, so each game is different. However, they remain the same in the one game. Each room have different item that you can investigate and each item has it own text that pops up. You lose energy as you move to different room and when you run out the game is over. 
