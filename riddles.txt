@@ -1,0 +1,100 @@
+cipher
+The note says
+
+Clear
+oCklterasrevh
+
+
+Above the lock it say "Start-End-Skip" and each goes up to 20
+Enter as #-#-#
+
+cipher
+The note says
+
+Moon
+Mewsobaxozgunpd
+
+Above the lock it say "Start-End-Skip" and each goes up to 20
+Enter as #-#-#
+
+cipher
+The note says
+
+Sun
+ogHSUTuiknjwd
+
+Above the lock it say "Start-End-Skip" and each goes up to 20
+Enter as #-#-#
+
+cipher
+The note says
+
+Star
+
+reSwtqaxrkwq
+
+Above the lock it say "Start-End-Skip"
+Enter as #-#-#
+
+riddle_mc
+There is a Teapot, Top, Test paper, and a note in a tray:
+
+Place  the answer to note in the tray.
+I have a "t" in the beging end and in the middle.
+You only have one opportunity
+
+Enter Teapot, Top, Test paper
+
+
+riddle_mc
+
+There is a blue, white, and black all with statments on top of them.
+There is another statment that saids 
+"One box has gold, One box is True and One box is Fales."
+
+The Box statement are:
+Blue -"A box with a false statement contains the gems"
+White- "The statement on the blue box is true"
+Black -"The blue box contains the gems"
+
+You only have one opportunity
+Enter Blue, White, or Black
+
+riddle_mc
+
+There is a blue, white, and black all with statments on top of them.
+There is another statment that saids 
+"One box has gold, One box is True and One box is Fales."
+
+The Box statement are:
+Blue -"All three statements are false"
+White- "Two statements are false"
+Black -"The gems are in a box with a false statement"
+
+You only have one opportunity
+Enter Blue, White, or Black
+
+riddle_mc
+
+There is a clock, a coin, a stuffed snake and a note in a tray:
+
+Place  the answer to note in the tray.
+I have a head, a tail, but no body.
+
+Enter Clock, Coin, or Snake.
+
+
+riddle_o
+The note says:
+
+When I am young I am tall, but as I grow old I shrink
+
+Enter all lower case 
+
+riddle_o
+The note says:
+
+I am spelled wrong in the dictionary
+
+Enter all lower case
+
