@@ -18,9 +18,9 @@ room_item = {
     "Dinner room":["Cabinet", "Table"],
     "Bed room":["Bed","Closet"],
     "Office":["Desk","File box"],
-    "Living room":["Coffee Table","Cupboard", "Couch"],
+    "Living room":["Coffee Table","Cupboard", "Couches"],
     "Kitchen":["Counter","Fridge"],
-    "Library":["BookSelf","Study Desk"],
+    "Library":["BookShelf","Study Desk"],
 }
 
 room_info = {}
@@ -35,10 +35,10 @@ item_desription = {
     "File box":[28,32,1],
     "Coffee Table":[44,48,3],
     "Cupboard":[32,36,1],
-    "Couch":[8,12,4],
+    "Couches":[8,12,4],
     "Counter":[48,52,3],
     "Fridge":[13,18,4],
-    "BookSelf":[53,59,2],
+    "BookShelf":[53,59,2],
     "Study Desk":[60,66,2]
 
 }
