@@ -1,0 +1,65 @@
+Coathanger 
+A nice place to for guest to hang up there thing.
+You hang up your thing and move on.
+
+Closet
+Filled with lots of coat and jacket.
+Nothing notable is in here.
+
+Couch
+They are blue and soft.
+You look around them and move thing around
+However you find nothing.
+
+Fridge
+The light flicks on as you open it.
+It has been empty.
+There is nothing in here.
+
+Cabinet 
+You go though each Cabinet each has vaious items
+Eventually, you find one that is lock.
+There is combination lock with a note
+
+Desk
+It is a simple desk. 
+While look though it drawers you find a locked box.
+There is combination lock with a note.
+
+File box
+You find the File box lock
+There is combination lock with a note.
+
+Cupboard
+It is has drawers, one of which is locked.
+There is combination lock with a note.
+
+Table
+You look at the table.It has a ornate tablecloth drape over it.
+On Top there as multiple items.
+
+Bed
+The bed is neatly made with soft blankets
+There are multiple items on top of the sheet.
+
+Coffee Table
+It is low to the ground.
+There is a few items on top of it.
+
+Counter
+It is made out of stone.
+There is a few items on top of it.
+
+
+BookSelf
+They tower over you as you look at them.
+There are hundreds of book here.
+In one of the  shelf there is a box.
+There is a note with a blank space below it.
+
+
+Study Desk
+The desk is cozy with a few book leftout.
+On it is a box.
+There is a note with a blank space below it.
+
