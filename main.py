@@ -31,7 +31,7 @@ while exploritng:
     if control =="exit":#leave or quit
         exploritng = False
         continue
-    elif control =="seach":#look around the room
+    elif control =="search":#look around the room
         gold += room.seach(in_room)
 
     elif control == "move":#move to different room
