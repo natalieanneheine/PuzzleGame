@@ -1,18 +1,18 @@
 Hello, this is a game
-Your goal is to go though different room and collect gold
+Your goal is to go through different room and collect gold
 
-Each room you go into will cost you energy and when you run out there game is done.
-You will move aroung and interact be entering direction
-When it say "What would you like to do:"
+Each room you go into will cost you energy and when you run out the game is done.
+You will move around and interact by entering a direction
+When it says "What would you like to do:"
 
 Here are the different direction you can enter:
 
 move - give you the different nearby room that you can move to. 
-       It will then promet you on what room you what room you want to move to.
+       It will then promt you on what room you what room you want to move to.
 
-seach - Proved infomation on different option to interact.
-        entering one will pull up futher infomation.
+search - Provide information on different options to interact with.
+        entering an option will pull up futher information.
 
-reveiw-Show the introduction again
+reveiw-Show the introduction again.
 
 exit - End the game
